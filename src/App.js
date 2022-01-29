@@ -83,6 +83,12 @@ function App() {
         ))}
       </div>
       <p>Turns: {turns}</p>
+      <a
+        href="https://github.com/mustafayesilbas/pokecard-memory-match"
+        target="_blank"
+      >
+        here for the codes
+      </a>
     </div>
   );
 }

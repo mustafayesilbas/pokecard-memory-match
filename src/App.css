@@ -24,3 +24,14 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr 1fr;
 grid-gap: 20px;
 }
+
+a:link, a:visited {
+  color: #fff;
+  font-size: 0.6em;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a:link:active, a:visited:active {
+  color: #fff;
+}
