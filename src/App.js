@@ -86,6 +86,7 @@ function App() {
       <a
         href="https://github.com/mustafayesilbas/pokecard-memory-match"
         target="_blank"
+        rel="noopener noreferrer"
       >
         here for the codes
       </a>
